@@ -1,0 +1,6 @@
+@BoletimAPI_HostAddress = http://localhost:5075
+
+GET {{BoletimAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
